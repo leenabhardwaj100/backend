@@ -1,0 +1,6 @@
+{
+  "name": "Iris Predictor Pro",
+  "description": "A machine learning web application to predict Iris flower species using Scikit-learn and FastAPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
